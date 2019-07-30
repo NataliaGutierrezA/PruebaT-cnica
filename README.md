@@ -1,2 +1,2 @@
-# PruebaT-cnica
+# PruebaTecnica
 Prueba Técnica de Autmatización
